@@ -1,0 +1,26 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112»"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112®"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+d
+java:S1192#"NDefine a constant instead of duplicating this literal "ACCESS_DENIED" 3 times.(¿žð½
+b
+java:S1192#"LDefine a constant instead of duplicating this literal "FULL_ACCESS" 3 times.(¿žð½
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œµŽµ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 88 to the 15 allowed.(žô¦†
+B
+java:S3011)",This accessibility update should be removed.(˜ÂÓ˜
+i
+java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(Éß›Ç
+C
+java:S3011“",This accessibility update should be removed.(˜ÂÓ˜
+?	java:S108 ")Either remove or fill this block of code.(±”¶¯
+n
+java:S3776Ï"RRefactor this method to reduce its Cognitive Complexity from 88 to the 15 allowed.(µÅºâûÿÿÿÿ
+C
+java:S3011Ø",This accessibility update should be removed.(˜ÂÓ˜
+Ý
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 103 to 64, Complexity from 26 to 14, Nesting Level from 7 to 2, Number of Variables from 12 to 6.(žô¦†
+ã
+java:S6541Ï"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 102 to 64, Complexity from 26 to 14, Nesting Level from 7 to 2, Number of Variables from 12 to 6.(µÅºâûÿÿÿÿ

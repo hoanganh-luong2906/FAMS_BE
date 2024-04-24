@@ -1,0 +1,26 @@
+
+g	java:S112T"FDefine and throw a dedicated exception instead of using a generic one.(óñø•ÿÿÿÿÿ8ªÃŸ›Â1
+g	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(ã«Ûúÿÿÿÿ8ªÃŸ›Â1
+g	java:S112`"FDefine and throw a dedicated exception instead of using a generic one.(ä§–µüÿÿÿÿ8ªÃŸ›Â1
+c	java:S112‹"FDefine and throw a dedicated exception instead of using a generic one.(–½Èğ8ªÃŸ›Â1
+h
+java:S1192H"KDefine a constant instead of duplicating this literal "Successful" 4 times.(Ô«¤ç8¬ÃŸ›Â1
+p
+java:S1192Z"NDefine a constant instead of duplicating this literal "Authorization" 3 times.(Ûä·şÿÿÿÿ8¬ÃŸ›Â1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œµµ8¯ÃŸ›Â1
+h
+java:S2259»"EA "NullPointerException" could be thrown; "userDTO" is nullable here.(Ì»’àùÿÿÿÿ8ãÃŸ›Â1
+>
+java:S1170)"!Make this final field static too.(‡»ôĞ8äÃŸ›Â1
+>
+java:S1170+"!Make this final field static too.(½ÿ’ş8àúü¨Ã1
+i
+java:S5998)"LRefactor this repetition that can lead to a stack overflow for large inputs.(‡»ôĞ8èÃŸ›Â1
+R
+java:S6397-"5Replace this character class by the character itself.(â¢ØÏ8ôúü¨Ã1
+R
+java:S6397."5Replace this character class by the character itself.(Ø‰ÿ8ôúü¨Ã1
+R
+java:S6397."5Replace this character class by the character itself.(Ø‰ÿ8ôúü¨Ã1
+p
+java:S5843,"TSimplify this regular expression to reduce its complexity from 71 to the 20 allowed.(Şôñf8¦ûü¨Ã1

@@ -1,0 +1,36 @@
+
+l
+java:S1192¼"IDefine a constant instead of duplicating this literal "inactive" 7 times.(ïÀ²’ùÿÿÿÿ8¡“©Ã1
+j
+java:S1192F"HDefine a constant instead of duplicating this literal "Failed" 13 times.(Ò¢ùÿÿÿÿ8 °éˆÀ1
+j
+java:S1192U"HDefine a constant instead of duplicating this literal "active" 11 times.(ÔŞø¨şÿÿÿÿ8¡°éˆÀ1
+m
+java:S1192^"KDefine a constant instead of duplicating this literal "Successful" 5 times.(ï§úÿÿÿÿ8¢°éˆÀ1
+r
+java:S1192³"ODefine a constant instead of duplicating this literal "Not found user" 3 times.(Å¢Ÿœúÿÿÿÿ8¡°éˆÀ1
+i
+java:S1192°"KDefine a constant instead of duplicating this literal "Found user" 3 times.(Ø³¹ü8£°éˆÀ1
+M
+java:S1066ş"/Merge this if statement with the enclosing one.(Úƒ¶™8ª°éˆÀ1
+R
+java:S1066Ê"/Merge this if statement with the enclosing one.(á÷ªˆşÿÿÿÿ8‘¡“©Ã1
+R
+java:S1066ç"/Merge this if statement with the enclosing one.(Ü­ÿüÿÿÿÿ8‘¡“©Ã1
+m	java:S117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«­è¨8«°éˆÀ1
+n
+java:S1301¦"KReplace this "switch" statement by "if" statements to increase readability.(İõô£ùÿÿÿÿ8­°éˆÀ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œµµ8»°éˆÀ1
+^
+java:S3457y"AFormat specifiers should be used instead of string concatenation.(üÑ—8†µéˆÀ1
+^	java:S125ó"<This block of commented-out lines of code should be removed.(Éå¿øúÿÿÿÿ8ƒ£“©Ã1
+M	java:S106õ"+Replace this use of System.out by a logger.(Ûß«¹ıÿÿÿÿ8„£“©Ã1
+p
+java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 83 to the 15 allowed.(¿“’˜8¯µéˆÀ1
+E
+java:S1659”""Declare "skip" on a separate line.(¶™¡ÿùÿÿÿÿ8Š£“©Ã1
+D	java:S131¦""Add a default case to this switch.(İõô£ùÿÿÿÿ8ÖµéˆÀ1
+`
+java:S6201Ü"BReplace this instanceof check and cast with 'instanceof User user'(¾Õ«8ŞµéˆÀ1
+å
+java:S6541‰"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 152 to 64, Complexity from 28 to 14, Nesting Level from 6 to 2, Number of Variables from 22 to 6.(¿“’˜8àµéˆÀ1

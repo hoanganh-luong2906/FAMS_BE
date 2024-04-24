@@ -1,0 +1,28 @@
+
+g	java:S112X"FDefine and throw a dedicated exception instead of using a generic one.(óñø•ÿÿÿÿÿ8¨¨ƒ›Â1
+h	java:S112£"FDefine and throw a dedicated exception instead of using a generic one.(©š´µûÿÿÿÿ8¨¨ƒ›Â1
+h	java:S112á"FDefine and throw a dedicated exception instead of using a generic one.(©š´µûÿÿÿÿ8ªÚÕÛÂ1
+h	java:S112ğ"FDefine and throw a dedicated exception instead of using a generic one.(Ùäƒ¢üÿÿÿÿ8ªÚÕÛÂ1
+l
+java:S1192|"ODefine a constant instead of duplicating this literal "User not found" 3 times.(š„úû8­ÚÕÛÂ1
+v
+java:S1192="TDefine a constant instead of duplicating this literal "Return list of user" 4 times.(€Ì£¹üÿÿÿÿ8­ÚÕÛÂ1
+j
+java:S1192B"HDefine a constant instead of duplicating this literal "Failed" 10 times.(Å¢Ÿœúÿÿÿÿ8­ÚÕÛÂ1
+q
+java:S1192B"ODefine a constant instead of duplicating this literal "Not found user" 5 times.(Å¢Ÿœúÿÿÿÿ8­ÚÕÛÂ1
+m
+java:S1192>"KDefine a constant instead of duplicating this literal "Successful" 9 times.(†×ŞÈüÿÿÿÿ8­ÚÕÛÂ1
+p
+java:S1192"SDefine a constant instead of duplicating this literal "Delete user failed" 4 times.(¬·ŞI8­ÚÕÛÂ1
+m
+java:S1192>"KDefine a constant instead of duplicating this literal "Found user" 5 times.(†×ŞÈüÿÿÿÿ8¯ÚÕÛÂ1
+i
+java:S1301’"KReplace this "switch" statement by "if" statements to increase readability.(‚ÜÖĞ8°ÚÕÛÂ1
+i
+java:S1301²"KReplace this "switch" statement by "if" statements to increase readability.(ÜŸ•8°ÚÕÛÂ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œµµ8¯¨ƒ›Â1
+T
+java:S34161"2Update this logger to use "UserServiceImpl.class".(ÇôÇ€úÿÿÿÿ8ÛÕÛÂ1
+v	java:S131’"YComplete cases by adding the missing enum constants or add a default case to this switch.(‚ÜÖĞ8¨ÛÕÛÂ1
+?	java:S131²""Add a default case to this switch.(ÜŸ•8­ÛÕÛÂ1

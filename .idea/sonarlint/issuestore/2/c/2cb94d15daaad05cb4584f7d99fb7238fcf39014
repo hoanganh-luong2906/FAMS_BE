@@ -1,0 +1,92 @@
+
+m
+java:S1192Ö"JDefine a constant instead of duplicating this literal "2001/9/11" 3 times.(¥­–şÿÿÿÿ8Â¿¹í¸1
+k
+java:S1192ÿ"HDefine a constant instead of duplicating this literal "Trainer" 3 times.(ìåïıÿÿÿÿ8Ã¿¹í¸1
+n
+java:S1192ª"KDefine a constant instead of duplicating this literal "0977545453" 8 times.(õÇİôşÿÿÿÿ8Ã¿¹í¸1
+n
+java:S1192€"KDefine a constant instead of duplicating this literal "0977545452" 3 times.(¤ÊÓßşÿÿÿÿ8Ä¿¹í¸1
+i
+java:S1192È"KDefine a constant instead of duplicating this literal "0977545451" 4 times.(ÅÑß8Ä¿¹í¸1
+n
+java:S1192¶"KDefine a constant instead of duplicating this literal "@gmail.com" 3 times.(Î÷µ·şÿÿÿÿ8Ä¿¹í¸1
+n
+java:S1192¿"KDefine a constant instead of duplicating this literal "Hoang Anh" 30 times.(Éü‹äùÿÿÿÿ8Å¿¹í¸1
+s
+java:S1192·"PDefine a constant instead of duplicating this literal "admin@gmail.com" 3 times.(‡¿¨Åıÿÿÿÿ8Ô¡ÂÄ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿäşÿÿÿÿ8Î¿¹í¸1
+n
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¶¬ô°8ˆÃ¹í¸1
+s
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(‡ïáÔùÿÿÿÿ8˜äÜŠ¾1
+n
+java:S3655ı"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ÌŒ½8ˆÃ¹í¸1
+s
+java:S3655Õ"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(æ±™×ùÿÿÿÿ8ˆÃ¹í¸1
+n
+java:S3655†"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¢‹˜«8—äÜŠ¾1
+m
+java:S3655–"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Çùäl8—äÜŠ¾1
+n
+java:S3655…"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ÌŒ½8ˆÃ¹í¸1
+n
+java:S3655•"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¶¬ô°8ˆÃ¹í¸1
+s
+java:S3655ş"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(†üëúÿÿÿÿ8—äÜŠ¾1
+n
+java:S3655Ş"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(µ ù»8ˆÃ¹í¸1
+s
+java:S3655ç"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(æ±™×ùÿÿÿÿ8ˆÃ¹í¸1
+s
+java:S3655Æ"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.( ü×íùÿÿÿÿ8ˆÃ¹í¸1
+]	java:S125)"<This block of commented-out lines of code should be removed.(¾ÖŸÍûÿÿÿÿ8Ã¹í¸1
+o
+java:S37761"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(¯²¸Ê8‘Ã¹í¸1
+[
+java:S11555">Use isEmpty() to check whether the collection is empty or not.( ëŠÕ8˜Ã¹í¸1
+[
+java:S1155D">Use isEmpty() to check whether the collection is empty or not.(ú™ÿù8šÃ¹í¸1
+X	java:S125u"<This block of commented-out lines of code should be removed.(¸©8ŸÃ¹í¸1
+T
+java:S6437¸"6Revoke and change this password, as it is compromised.(…‚í›8 Ã¹í¸1
+T
+java:S6437Æ"6Revoke and change this password, as it is compromised.(…‚í›8£Ã¹í¸1
+T
+java:S6437Ô"6Revoke and change this password, as it is compromised.(…‚í›8¤Ã¹í¸1
+T
+java:S6437â"6Revoke and change this password, as it is compromised.(…‚í›8¦Ã¹í¸1
+T
+java:S6437ğ"6Revoke and change this password, as it is compromised.(…‚í›8§Ã¹í¸1
+T
+java:S6437ş"6Revoke and change this password, as it is compromised.(…‚í›8©Ã¹í¸1
+T
+java:S6437Œ"6Revoke and change this password, as it is compromised.(…‚í›8«Ã¹í¸1
+T
+java:S6437š"6Revoke and change this password, as it is compromised.(…‚í›8­Ã¹í¸1
+T
+java:S6437¨"6Revoke and change this password, as it is compromised.(…‚í›8¯Ã¹í¸1
+T
+java:S6437·"6Revoke and change this password, as it is compromised.(…‚í›8²Ã¹í¸1
+T
+java:S6437È"6Revoke and change this password, as it is compromised.(…‚í›8´Ã¹í¸1
+T
+java:S6437Ø"6Revoke and change this password, as it is compromised.(…‚í›8¶Ã¹í¸1
+T
+java:S6437ç"6Revoke and change this password, as it is compromised.(…‚í›8¸Ã¹í¸1
+T
+java:S6437ö"6Revoke and change this password, as it is compromised.(…‚í›8¹Ã¹í¸1
+T
+java:S6437…"6Revoke and change this password, as it is compromised.(…‚í›8»Ã¹í¸1
+T
+java:S6437•"6Revoke and change this password, as it is compromised.(…‚í›8½Ã¹í¸1
+M	java:S106£"+Replace this use of System.out by a logger.(ëë´Ôùÿÿÿÿ8¾Ã¹í¸1
+H	java:S106¨"+Replace this use of System.out by a logger.(Îåÿ¼8¿Ã¹í¸1
+M	java:S106­"+Replace this use of System.out by a logger.(ø÷¼Çûÿÿÿÿ8ÀÃ¹í¸1
+M	java:S106²"+Replace this use of System.out by a logger.(ìŠÔÒşÿÿÿÿ8ÁÃ¹í¸1
+O
+java:S1874Ö",Remove this use of "Date"; it is deprecated.(¥­–şÿÿÿÿ8ÅÃ¹í¸1
+O
+java:S1874ß",Remove this use of "Date"; it is deprecated.(¥­–şÿÿÿÿ8ÇÃ¹í¸1
+O
+java:S1874è",Remove this use of "Date"; it is deprecated.(¥­–şÿÿÿÿ8ÈÃ¹í¸1

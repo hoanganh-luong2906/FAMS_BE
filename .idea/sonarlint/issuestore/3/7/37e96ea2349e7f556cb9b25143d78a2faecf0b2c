@@ -1,0 +1,12 @@
+
+n
+java:S1192‹"KDefine a constant instead of duplicating this literal "yyyy-MM-dd" 3 times.(ÄÅ‰ïıÿÿÿÿ8ïïÎ†¸1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡äó¬úÿÿÿÿ8íí‚¸1
+]	java:S125)"<This block of commented-out lines of code should be removed.(ªüÉÇûÿÿÿÿ8Õ¬´í¸1
+X	java:S125B"<This block of commented-out lines of code should be removed.(‹ı»8Ö¬´í¸1
+C
+java:S1452c"&Remove usage of generic wildcard type.(üõù8ğÎ†¸1
+H
+java:S1452}"&Remove usage of generic wildcard type.(á©Ô§şÿÿÿÿ8ğÎ†¸1
+I
+java:S1452„"&Remove usage of generic wildcard type.(œöÍ‰ıÿÿÿÿ8ØÜÕÛÂ1

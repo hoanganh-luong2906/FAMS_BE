@@ -1,0 +1,11 @@
+
+r	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©šÛıÿÿÿÿ8ˆÂÑÙ¿1
+r	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÛ§Èúÿÿÿÿ8ˆÂÑÙ¿1
+r	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸òÔËùÿÿÿÿ8ˆÂÑÙ¿1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤Ã²‹ÿÿÿÿÿ8İò©Ó¿1
+T
+java:S6126"2Replace this String concatenation with Text block.(Î­Êšùÿÿÿÿ8ÂÑÙ¿1
+O
+java:S6126)"2Replace this String concatenation with Text block.(ò¼Èä8ÂÑÙ¿1
+T
+java:S61264"2Replace this String concatenation with Text block.(ÊÍÀôûÿÿÿÿ8ÂÑÙ¿1

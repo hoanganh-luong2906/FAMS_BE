@@ -1,0 +1,5 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èÀËy8š“À´¶1
+m	java:S116Z"QRename this field "final_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïèø8Æˆ“©Ã1
+X	java:S125r"<This block of commented-out lines of code should be removed.(È™Ôø8ûÈÈ‰¸1
+Y	java:S125€"<This block of commented-out lines of code should be removed.(ƒÀ™‘8Êˆ“©Ã1

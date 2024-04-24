@@ -1,0 +1,104 @@
+
+e
+java:S1192¼"GDefine a constant instead of duplicating this literal "Failed" 3 times.(×½áë8ÏŞˆÀ1
+n
+java:S1192º"KDefine a constant instead of duplicating this literal "Successful" 3 times.(—ó»Öúÿÿÿÿ8âŞˆÀ1
+v
+java:S1192¼"XDefine a constant instead of duplicating this literal "Couldn't found the list" 3 times.(×½áë8ÔŞˆÀ1
+m
+java:S1192R"KDefine a constant instead of duplicating this literal "MM/dd/yyyy" 8 times.(µéì¤úÿÿÿÿ8İŞˆÀ1
+u
+java:S1192º"RDefine a constant instead of duplicating this literal "List of classroom" 3 times.(—ó»Öúÿÿÿÿ8èŞˆÀ1
+i
+java:S1192©"KDefine a constant instead of duplicating this literal "yyyy-MM-dd" 3 times.(ûú»ú8îŞˆÀ1
+?
+java:S1643Ÿ	"Use a StringBuilder instead.(‰§àÃıÿÿÿÿ8óŞˆÀ1
+ˆ
+java:S1488–	"eImmediately return this expression instead of assigning it to the temporary variable "formattedDate".(à±Åéÿÿÿÿÿ8öŞˆÀ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œµµ8àÚ÷Ù¿1
+n
+java:S3655Ë"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(åÕ°ö8í‘ŞˆÀ1
+f
+java:S2583Õ"CChange this condition so that it does not always evaluate to "true"(Äÿœ‡øÿÿÿÿ8î‘ŞˆÀ1
+f
+java:S2583–"CChange this condition so that it does not always evaluate to "true"(î“ã¥şÿÿÿÿ8î‘ŞˆÀ1
+a
+java:S2583ü"CChange this condition so that it does not always evaluate to "true"(ÁßÔì8î‘ŞˆÀ1
+]	java:S1257"<This block of commented-out lines of code should be removed.(Éœıòúÿÿÿÿ8ø‘ŞˆÀ1
+]	java:S125@"<This block of commented-out lines of code should be removed.(†¯Ëüÿÿÿÿ8ø‘ŞˆÀ1
+]	java:S125C"<This block of commented-out lines of code should be removed.(†ú¡ƒşÿÿÿÿ8ø‘ŞˆÀ1
+Y
+java:S1854R"7Remove this useless assignment to local variable "sdf".(µéì¤úÿÿÿÿ8ù‘ŞˆÀ1
+^
+java:S1854Q"<Remove this useless assignment to local variable "location".(Íİ¬ûÿÿÿÿ8ù‘ŞˆÀ1
+]	java:S125O"<This block of commented-out lines of code should be removed.(³°²çÿÿÿÿÿ8û‘ŞˆÀ1
+O
+java:S1481Q"-Remove this unused "location" local variable.(Íİ¬ûÿÿÿÿ8ü‘ŞˆÀ1
+J
+java:S1481R"(Remove this unused "sdf" local variable.(µéì¤úÿÿÿÿ8ş‘ŞˆÀ1
+]	java:S125T"<This block of commented-out lines of code should be removed.(ÿŞ°šûÿÿÿÿ8ş‘ŞˆÀ1
+]	java:S125W"<This block of commented-out lines of code should be removed.(åã»±øÿÿÿÿ8ÿ‘ŞˆÀ1
+]	java:S125e"<This block of commented-out lines of code should be removed.(Â™†úÿÿÿÿ8€’ŞˆÀ1
+X	java:S125h"<This block of commented-out lines of code should be removed.(³¥Áá8’ŞˆÀ1
+t
+java:S3776p"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¤ïƒ€ıÿÿÿÿ8‚’ŞˆÀ1
+f
+java:S3358t"DExtract this nested ternary operation into an independent statement.(ºö­¿øÿÿÿÿ8„’ŞˆÀ1
+p
+java:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ƒå·±8Ç›“©Ã1
+^	java:S125Ğ"<This block of commented-out lines of code should be removed.(ÙËÙ’øÿÿÿÿ8—’ŞˆÀ1
+^	java:S125Ù"<This block of commented-out lines of code should be removed.(ïš Ïıÿÿÿÿ8˜’ŞˆÀ1
+Y	java:S125"<This block of commented-out lines of code should be removed.(ã±¤á8­’ŞˆÀ1
+^	java:S125«"<This block of commented-out lines of code should be removed.(Â™†úÿÿÿÿ8­’ŞˆÀ1
+^	java:S125­"<This block of commented-out lines of code should be removed.(Íú–‰üÿÿÿÿ8­’ŞˆÀ1
+^	java:S125—"<This block of commented-out lines of code should be removed.(¸øÕøÿÿÿÿ8»’ŞˆÀ1
+d
+java:S1854Ø"FRemove this useless assignment to local variable "trainerSyllabusMap".(£ç‡ 8Ä’ŞˆÀ1
+Z
+java:S1854×"7Remove this useless assignment to local variable "sdf".(µéì¤úÿÿÿÿ8Ä’ŞˆÀ1
+K
+java:S1481×"(Remove this unused "sdf" local variable.(µéì¤úÿÿÿÿ8Å’ŞˆÀ1
+U
+java:S1481Ø"7Remove this unused "trainerSyllabusMap" local variable.(£ç‡ 8Ç’ŞˆÀ1
+Y	java:S125Ü"<This block of commented-out lines of code should be removed.(Ş­×õ8É’ŞˆÀ1
+u
+java:S3776å"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(¸®òŠüÿÿÿÿ8Í’ŞˆÀ1
+^	java:S125é"<This block of commented-out lines of code should be removed.(™¾Óøÿÿÿÿ8Ù’ŞˆÀ1
+^	java:S125ô"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8Ó’ŞˆÀ1
+^	java:S125¸"<This block of commented-out lines of code should be removed.(³İ„§ùÿÿÿÿ8Ø’ŞˆÀ1
+Y	java:S125Ê"<This block of commented-out lines of code should be removed.(“ä•‡8Œœ“©Ã1
+Y	java:S125Ì"<This block of commented-out lines of code should be removed.(Ù Ì»8Ú’ŞˆÀ1
+^	java:S125Ï"<This block of commented-out lines of code should be removed.(ëç“şÿÿÿÿ8Ú’ŞˆÀ1
+u
+java:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ª×¡˜ùÿÿÿÿ8«œ“©Ã1
+Y	java:S125¥"<This block of commented-out lines of code should be removed.(¾†½·8¬œ“©Ã1
+N
+java:S1874µ"0Remove this use of "getHours"; it is deprecated.(’üÓ8­œ“©Ã1
+N
+java:S1874¶"0Remove this use of "getHours"; it is deprecated.(—‚‰Ñ8®œ“©Ã1
+F	java:S108¸")Either remove or fill this block of code.(¹›†ı8¯œ“©Ã1
+K	java:S108¹")Either remove or fill this block of code.(³¹Ïşÿÿÿÿ8¯œ“©Ã1
+K	java:S108º")Either remove or fill this block of code.(©Ş­ºøÿÿÿÿ8¯œ“©Ã1
+^	java:S125Ã"<This block of commented-out lines of code should be removed.(ˆœÂÒúÿÿÿÿ8°œ“©Ã1
+Y	java:S125Ì"<This block of commented-out lines of code should be removed.(’„‘±8±œ“©Ã1
+X
+java:S1854ë":Remove this useless assignment to local variable "status".(ÔøÙø8ô’ŞˆÀ1
+I
+java:S1481ë"+Remove this unused "status" local variable.(ÔøÙø8ô’ŞˆÀ1
+^	java:S125ó"<This block of commented-out lines of code should be removed.(·™èóÿÿÿÿÿ8ö’ŞˆÀ1
+^	java:S125ù"<This block of commented-out lines of code should be removed.(êÌîÆúÿÿÿÿ8ö’ŞˆÀ1
+X	java:S125Ü"<This block of commented-out lines of code should be removed.(ã…ı$8€“ŞˆÀ1
+`
+java:S6201‹	"BReplace this instanceof check and cast with 'instanceof User user'(ÄØÔî8“ŞˆÀ1
+Z
+java:S1854·	"7Remove this useless assignment to local variable "sdf".(µéì¤úÿÿÿÿ8…“ŞˆÀ1
+K
+java:S1481·	"(Remove this unused "sdf" local variable.(µéì¤úÿÿÿÿ8‡“ŞˆÀ1
+Y	java:S125¼	"<This block of commented-out lines of code should be removed.(æ©ö¨8ˆ“ŞˆÀ1
+Y	java:S125Î	"<This block of commented-out lines of code should be removed.(ØãŒ¬8‹“ŞˆÀ1
+V
+java:S1144„	"8Remove this unused private "calculateNumThreads" method.(ï™áÏ8 “ŞˆÀ1
+å
+java:S6541Á"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 207 to 64, Complexity from 24 to 14, Nesting Level from 3 to 2, Number of Variables from 32 to 6.(ƒå·±8ß°“©Ã1
+ê
+java:S6541å"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 218 to 64, Complexity from 26 to 14, Nesting Level from 4 to 2, Number of Variables from 42 to 6.(¸®òŠüÿÿÿÿ8ß°“©Ã1

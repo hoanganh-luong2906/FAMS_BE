@@ -1,0 +1,5 @@
+
+b	java:S112@"FDefine and throw a dedicated exception instead of using a generic one.(‘ŸÇ´8†âˆˆ¸1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œµŽµ
+i
+java:S2095A"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(èš²â8žâˆˆ¸1

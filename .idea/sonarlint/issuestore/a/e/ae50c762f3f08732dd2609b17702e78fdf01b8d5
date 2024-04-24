@@ -1,0 +1,11 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡äó¬úÿÿÿÿ8©×¿ä¿1
+l
+java:S2095…"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(´È´Þ8ŒÙ¿ä¿1
+]	java:S125-"<This block of commented-out lines of code should be removed.(·ãõõúÿÿÿÿ8Ê°ëöÀ1
+]	java:S125C"<This block of commented-out lines of code should be removed.(ç¿·Àÿÿÿÿÿ8ÚÎ€©Ã1
+‰
+java:S1130]"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¹£þ8„Ú¿ä¿1
+H
+java:S1452W"&Remove usage of generic wildcard type.(ž×µøÿÿÿÿ8…Ú¿ä¿1
+W	java:S125K"<This block of commented-out lines of code should be removed.(§Ùã:8ÝÎ€©Ã1

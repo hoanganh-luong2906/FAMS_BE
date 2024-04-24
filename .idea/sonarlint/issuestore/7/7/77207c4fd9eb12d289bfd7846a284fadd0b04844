@@ -1,0 +1,97 @@
+
+n	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëŠËœ8æ‹“©Ã1
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëŠËœ8ç‹“©Ã1
+n	java:S117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëŠËœ8ç‹“©Ã1
+n	java:S117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëŠËœ8ç‹“©Ã1
+s	java:S117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¨êØùÿÿÿÿ8è‹“©Ã1
+ˆ
+java:S1488§"eImmediately return this expression instead of assigning it to the temporary variable "formattedDate".(à±Åéÿÿÿÿÿ8¸§ª¿1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œµµ8Ğ§ª¿1
+u
+java:S2259®	"RA "NullPointerException" could be thrown; "originalSyllabusCode" is nullable here.(ğŸıÚøÿÿÿÿ8Ê“©Ã1
+j
+java:S2095š	"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ŞšÇ8Ê“©Ã1
+m
+java:S3655ƒ"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(°ı¨8ış÷Ñ¿1
+m
+java:S3655è"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(°ı¨8Ê“©Ã1
+s
+java:S3655¨	"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(çÅÓıÿÿÿÿ8Ë“©Ã1
+s
+java:S3655ì	"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ÂØ»¤øÿÿÿÿ8ış÷Ñ¿1
+s
+java:S3655©	"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¡–§øıÿÿÿÿ8Ë“©Ã1
+s
+java:S3655Ì	"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ƒÌù²üÿÿÿÿ8Ë“©Ã1
+]	java:S1259"<This block of commented-out lines of code should be removed.(ùêÄ´øÿÿÿÿ8ˆÿ÷Ñ¿1
+]	java:S125R"<This block of commented-out lines of code should be removed.(óâÔ«üÿÿÿÿ8Œÿ÷Ñ¿1
+]	java:S125j"<This block of commented-out lines of code should be removed.(Â™†úÿÿÿÿ8ÿ÷Ñ¿1
+M	java:S106‚"+Replace this use of System.out by a logger.( Ã™Æùÿÿÿÿ8–ÿ÷Ñ¿1
+b
+java:S3358†"DExtract this nested ternary operation into an independent statement.(éÉ×é8–ÿ÷Ñ¿1
+^	java:S125¡"<This block of commented-out lines of code should be removed.(Â™†úÿÿÿÿ8šÿ÷Ñ¿1
+^	java:S125Ç"<This block of commented-out lines of code should be removed.(Â™†úÿÿÿÿ8Ÿÿ÷Ñ¿1
+H
+java:S2201æ"*The return value of "toList" must be used.(•¤÷€8¢ÿ÷Ñ¿1
+Y	java:S125ì"<This block of commented-out lines of code should be removed.(Íœ¯Î8£ÿ÷Ñ¿1
+p
+java:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(…ì¾á8¥ÿ÷Ñ¿1
+Y	java:S125ˆ"<This block of commented-out lines of code should be removed.(——8°ÿ÷Ñ¿1
+^	java:S125¥"<This block of commented-out lines of code should be removed.(Â™†úÿÿÿÿ8Ëÿ÷Ñ¿1
+Y	java:S125©"<This block of commented-out lines of code should be removed.(‚ÙÊú8Ëÿ÷Ñ¿1
+^	java:S125Ù"<This block of commented-out lines of code should be removed.(Â™†úÿÿÿÿ8Ïÿ÷Ñ¿1
+Y	java:S125ß"<This block of commented-out lines of code should be removed.(‚ÙÊú8Ğÿ÷Ñ¿1
+X	java:S125ê"<This block of commented-out lines of code should be removed.(¸‘”h8Ñÿ÷Ñ¿1
+^	java:S125’"<This block of commented-out lines of code should be removed.( µ˜‹üÿÿÿÿ8Òÿ÷Ñ¿1
+p
+java:S3776¦"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(÷şºÅ8Õÿ÷Ñ¿1
+^	java:S125ß"<This block of commented-out lines of code should be removed.(Â™†úÿÿÿÿ8öÿ÷Ñ¿1
+Y	java:S125ã"<This block of commented-out lines of code should be removed.(‚ÙÊú8öÿ÷Ñ¿1
+^	java:S125”"<This block of commented-out lines of code should be removed.(Â™†úÿÿÿÿ8úÿ÷Ñ¿1
+Y	java:S125š"<This block of commented-out lines of code should be removed.(‚ÙÊú8ûÿ÷Ñ¿1
+X	java:S125¤"<This block of commented-out lines of code should be removed.(¸‘”h8üÿ÷Ñ¿1
+^	java:S125Ì"<This block of commented-out lines of code should be removed.( µ˜‹üÿÿÿÿ8ıÿ÷Ñ¿1
+p
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 68 to the 15 allowed.(º–Á©8Ñ“©Ã1
+U
+java:S1117¤"8Rename "line" which hides the field declared at line 68.(çäªq8Ù“©Ã1
+^	java:S125Ğ"<This block of commented-out lines of code should be removed.(Ú˜Ê¼ùÿÿÿÿ8Ş“©Ã1
+Y	java:S125Ô"<This block of commented-out lines of code should be removed.(­Ÿêı8Ş“©Ã1
+Y	java:S125è"<This block of commented-out lines of code should be removed.(ÂÎˆé8á“©Ã1
+Y	java:S125ì"<This block of commented-out lines of code should be removed.(ğ•¬°8â“©Ã1
+Y	java:S125ÿ"<This block of commented-out lines of code should be removed.(ÂÎˆé8ã“©Ã1
+Y	java:S125ƒ"<This block of commented-out lines of code should be removed.(ğ•¬°8ä“©Ã1
+F	java:S108‰")Either remove or fill this block of code.(·±‘À8ä“©Ã1
+Y	java:S125"<This block of commented-out lines of code should be removed.(ÂÎˆé8ç“©Ã1
+Y	java:S125¡"<This block of commented-out lines of code should be removed.(ğ•¬°8è“©Ã1
+Y	java:S125´"<This block of commented-out lines of code should be removed.(ÂÎˆé8é“©Ã1
+Y	java:S125¸"<This block of commented-out lines of code should be removed.(ğ•¬°8é“©Ã1
+Y	java:S125Ú"<This block of commented-out lines of code should be removed.(ÂÎˆé8ì“©Ã1
+Y	java:S125Ş"<This block of commented-out lines of code should be removed.(ğ•¬°8í“©Ã1
+X	java:S125ô"<This block of commented-out lines of code should be removed.(øŸŒ8ï“©Ã1
+p
+java:S6204Ú
+"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(œçÖß8€øÑ¿1
+q
+java:S1602Ø
+"SRemove useless curly braces around statement and then remove useless return keyword(˜×Ñ8€øÑ¿1
+u
+java:S6204Ş
+"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Éü­‡ÿÿÿÿÿ8 €øÑ¿1
+`
+java:S6201å
+"BReplace this instanceof check and cast with 'instanceof User user'(ÄØÔî8¢€øÑ¿1
+p
+java:S3776£"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ã¼ıë8«€øÑ¿1
+k
+java:S1854¨"HRemove this useless assignment to local variable "trainingMaterialList".(©ö‰üÿÿÿÿ8¬€øÑ¿1
+j
+java:S1854§"GRemove this useless assignment to local variable "trainingContentList".(ÁË•æıÿÿÿÿ8¬€øÑ¿1
+_
+java:S6019½"<Remove the '?' from this unnecessarily reluctant quantifier.(®è­¾şÿÿÿÿ8¼‘“©Ã1
+å
+java:S6541ó"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 207 to 64, Complexity from 28 to 14, Nesting Level from 6 to 2, Number of Variables from 32 to 6.(…ì¾á8Â€øÑ¿1
+å
+java:S6541¦"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 210 to 64, Complexity from 29 to 14, Nesting Level from 6 to 2, Number of Variables from 32 to 6.(÷şºÅ8Â€øÑ¿1
+å
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 177 to 64, Complexity from 24 to 14, Nesting Level from 6 to 2, Number of Variables from 24 to 6.(º–Á©8ß°“©Ã1

@@ -1,0 +1,10 @@
+com\example\FAMS\dto\responses\TrainingProgramDTOV2.class
+com\example\FAMS\dto\responses\TrainingProgramDTOV2$TrainingProgramDTOV2Builder.class
+com\example\FAMS\dto\responses\TrainingProgramDTO2$TrainingProgramDTO2Builder.class
+com\example\FAMS\models\ClassInfoDTO$ClassInfoDTOBuilder.class
+com\example\FAMS\dto\responses\ClassRes\GetClass.class
+com\example\FAMS\dto\responses\TrainingProgramDTO2.class
+com\example\FAMS\models\ClassInfoDTO.class
+com\example\FAMS\dto\responses\ClassRes\GetClassDetail.class
+com\example\FAMS\dto\responses\ClassRes\GetClassDetail$GetClassDetailBuilder.class
+com\example\FAMS\dto\responses\ClassRes\GetClass$GetClassBuilder.class

@@ -1,0 +1,16 @@
+
+`	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.( þòëÿÿÿÿÿ
+\
+java:S1192."FDefine a constant instead of duplicating this literal "File " 3 times.(×º¾«
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œµŽµ
+i
+java:S2095h"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ðƒÙîûÿÿÿÿ
+U
+java:S1854%":Remove this useless assignment to local variable "result".(™óÂŒþÿÿÿÿ
+F
+java:S1481%"+Remove this unused "result" local variable.(™óÂŒþÿÿÿÿ
+P	java:S899+";Do something with the "boolean" value returned by "delete".( Ý¿Ë
+d
+java:S4042+"NUse "java.nio.file.Files#delete" here for better messages on error conditions.( Ý¿Ë
+K
+java:S1751a"5Remove this "break" statement or make it conditional.(›ûä·

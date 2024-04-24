@@ -1,0 +1,12 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èÀËy8Ô‰’¾²1
+H
+java:S1602<",Remove useless curly braces around statement(§Âüv8‚Š’¾²1
+N
+java:S1602?",Remove useless curly braces around statement(Ê¢Àøûÿÿÿÿ8‡Š’¾²1
+N
+java:S1602B",Remove useless curly braces around statement(ˆ”€úÿÿÿÿ8‹Š’¾²1
+I
+java:S1602E",Remove useless curly braces around statement(í€»8Š’¾²1
+N
+java:S1602H",Remove useless curly braces around statement(Ü…³óüÿÿÿÿ8”Š’¾²1
